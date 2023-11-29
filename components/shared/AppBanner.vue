@@ -47,7 +47,7 @@ export default {
           uppercase
         "
         >
-          Hi, I am Fabian Löwe
+          Bonjour, Je suis Grégoire Constant
         </h1>
         <p
           class="
@@ -66,7 +66,7 @@ export default {
         </p>
         <div class="flex justify-center sm:block">
           <a
-            href="/cv_fabian%20loewe.pdf"
+            href="/CV_constant-gregoire.pdf"
             download=""
             class="
             flex
