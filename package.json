@@ -8,6 +8,9 @@
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
+  "engines": {
+    "node": "14.17.3"
+  },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "@tailwindcss/forms": "^0.3.4",
